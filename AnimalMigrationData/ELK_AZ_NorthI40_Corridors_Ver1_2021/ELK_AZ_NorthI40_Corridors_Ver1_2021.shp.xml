@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Arizona Game and Fish Department</origin>
+        <origin>Lucas Olson</origin>
+        <origin>Jeff Gagnon</origin>
+        <origin>Scott Sprague</origin>
+        <pubdate>20220407</pubdate>
+        <title>Migration Corridors of Elk in the North of Interstate 40 Herd in Arizona</title>
+        <edition>Version 1.0</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://doi.org/10.5066/P9TKA3L8</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Matthew Kauffman</origin>
+            <origin>Blake Lowrey</origin>
+            <origin>Jeffrey Beck</origin>
+            <origin>Jodi Berg</origin>
+            <origin>Scott Bergen</origin>
+            <origin>Joel Berger</origin>
+            <origin>James Cain</origin>
+            <origin>Sarah Dewey</origin>
+            <origin>Jennifer Diamond</origin>
+            <origin>Orrin Duvuvuei</origin>
+            <origin>Julien Fattebert</origin>
+            <origin>Jeff Gagnon</origin>
+            <origin>Julie Garcia</origin>
+            <origin>Evan Greenspan</origin>
+            <origin>Embere Hall</origin>
+            <origin>Glenn Harper</origin>
+            <origin>Stan Harter</origin>
+            <origin>Kent Hersey</origin>
+            <origin>Pat Hnilicka</origin>
+            <origin>Mark Hurley</origin>
+            <origin>Lee Knox</origin>
+            <origin>Art Lawson</origin>
+            <origin>Eric Maichak</origin>
+            <origin>James Meacham</origin>
+            <origin>Jerod Merkle</origin>
+            <origin>Arthur Middleton</origin>
+            <origin>Daniel Olson</origin>
+            <origin>Lucas Olson</origin>
+            <origin>Craig Reddell</origin>
+            <origin>Benjamin Robb</origin>
+            <origin>Gabe Rozman</origin>
+            <origin>Hall Sawyer</origin>
+            <origin>Cody Schroeder</origin>
+            <origin>Brandon Scurlock</origin>
+            <origin>Jeff Short</origin>
+            <origin>Scott Sprague</origin>
+            <origin>Alethea Steingisser</origin>
+            <origin>Nicole Tatman</origin>
+            <pubdate>2022</pubdate>
+            <title>Ungulate Migrations of the Western United States, Volume 2</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The North of Interstate 40 (I-40) elk (Cervus canadensis) herd makes an annual migration throughout some of Arizona’s high elevation landscapes west of Flagstaff. The bulk of the herd resides in Arizona’s Game Management Unit (GMU) 7W during the summer and during the winter many migrate to GMU 10. The GMU 7W population had an estimate of 4,300 individuals in 2019, while the GMU 10 population had an estimate of 3,200. Like many elk in Arizona, only a portion of the herd is migratory. Summer range contains ponderosa pine forests and open prairies near Government Prairie and Sitgreaves Mountain. In the winter, the elk transition to gradually lower elevations and habitats dominated by pinyon-juniper woodlands. I-40 and State Route 64 are primary threats to this migration corridor. Successful elk crossings of I-40 are rare, and research has shown that there are more than 65 elk-vehicle collisions/year along this stretch (Gagnon et al. 2012a,b).
+
+These data provide the location of migration corridors for elk from the North of Interstate 40 Herd in Arizona. They were developed using 49 migration sequences collected from a sample size of 18 adult elk comprising GPS locations collected every 2 hours.</abstract>
+      <purpose>Migration is widespread across taxonomic groups and increasingly recognized as fundamental to maintaining abundant wildlife populations and communities. Many ungulate herds migrate across the western United States to access food and avoid harsh environmental conditions. With the advent of global positioning system (GPS) collars, researchers can describe and map the year-round movements of ungulates at both large and small spatial scales. The migrations can traverse landscapes that are a mix of different jurisdictional ownership and management. Today, the landscapes that migrating herds traverse are increasingly threatened by fencing, high-traffic roads, oil and gas development, and other types of permanent development. Over the last decade, a model of science-based conservation has emerged in which migration corridors, stopovers, and winter ranges can be mapped in detail, thereby allowing threats and conservation opportunities to be identified and remedied. In 2018, the U.S. Geological Survey (USGS) assembled a Corridor Mapping Team (CMT) to work collaboratively with western states to map migrations of mule deer, elk, and pronghorn. Led by the USGS Wyoming Cooperative Fish and Wildlife Research Unit, the team consists of federal scientists, university researchers, and biologists and analysts from participating state and tribal agencies. The first set of maps described a total of 42 migrations across five western states and was published in 2020 as the first volume of this report series. This second volume describes an additional 65 migrations mapped within nine western states and select tribal lands. As the American West continues to grow, this report series and the associated map files released on USGS’s ScienceBase will allow for migration maps to be used for conservation planning by a wide array of state and federal stakeholders to reduce barriers to migration caused by fences, roads, and other development.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2009</begdate>
+          <enddate>2011</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <descgeog>Flagstaff, AZ</descgeog>
+      <bounding>
+        <westbc>-112.4032</westbc>
+        <eastbc>-111.6842</eastbc>
+        <northbc>35.5474</northbc>
+        <southbc>35.1186</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>migration</themekey>
+        <themekey>migratory species</themekey>
+        <themekey>animal behavior</themekey>
+        <themekey>migration (organisms)</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:620e4a67d34e6c7e83baa332</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Arizona</placekey>
+        <placekey>United States</placekey>
+        <placekey>Flagstaff</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Cervus canadensis</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Mammalia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Subclass</taxonrn>
+                        <taxonrv>Theria</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Infraclass</taxonrn>
+                          <taxonrv>Eutheria</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Artiodactyla</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Cervidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Cervinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Cervus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Cervus elaphus</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Subspecies</taxonrn>
+                                      <taxonrv>Cervus elaphus canadensis</taxonrv>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>The Arizona Game and Fish Department will retain ownership of the data provided and must approve of any additional use before other analyses, research, or publications are initiated. The burden for determining fitness for use lies entirely with the user. For purposes of publication or dissemination, citations, or credit should be given to the Arizona Game and Fish Department.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeff Gagnon</cntper>
+          <cntorg>Arizona Game and Fish Department</cntorg>
+        </cntperp>
+        <cntpos>Wildlife Specialist Regional Supervisor</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>5000 W Carefree Hwy</address>
+          <city>Phoenix</city>
+          <state>AZ</state>
+          <postal>85086</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>19288148925</cntvoice>
+        <cntemail>jgagnon@azgfd.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Dodd, N.L.</origin>
+        <origin>Gagnon, J.W.</origin>
+        <origin>Sprague, S.C.</origin>
+        <origin>Boe, S.</origin>
+        <origin>Schweinsburg, R.E.</origin>
+        <pubdate>2012</pubdate>
+        <title>Wildlife accident reduction study and monitoring: Arizona State Route 64</title>
+        <geoform>publication</geoform>
+        <othercit>Final project report 626, Arizona Department of Transportation Research Center, Phoenix, Ariz.</othercit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Gagnon, J.W.</origin>
+        <origin>Sprague, S.C.</origin>
+        <origin>Dodd, N.L.</origin>
+        <origin>Nelson, R.E. III</origin>
+        <origin>Boe, S.R.</origin>
+        <origin>Schweinsburg, R.E.</origin>
+        <pubdate>2012</pubdate>
+        <title>Research report prepared by Arizona Game and Fish Department on elk movements associated with Interstate 40 (Williams to Winona) for Design Concept Study and Environmental Assessment I-40 Bellemont to Winona Project No. NH 040-C(211)S 40 CN 183 H758601L</title>
+        <geoform>publication</geoform>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>We checked to ensure values were in expected ranges (e.g. locations of corridors were as expected, and dates of GPS observations were consistent with the project time period).</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Methods varied by data type (i.e., migration routes, migration corridors, stopovers or winter ranges). 
+
+Routes: To identify migration routes, we first extracted migration sequences for each individual-year. To identify spring and fall migration start and end dates for a given individual in a given year, we visually inspected the Net Squared Displacement (NSD) curve (Bunnefeld et al. 2011, Bastille-Rousseau et al. 2016) alongside digital maps of the animal’s movement trajectory (Merkle and others, 2017). The NSD represents the square of the straight-line distance between any GPS location of an animal’s movement trajectory and a point within the animal’s winter range. When an animal stays within a defined home range, the NSD varies relatively little over time as the animal travels. However, when an animal migrates away from its winter range, the NSD of each successive location increases until it settles in its summer range (Fig. 1). The days with clear breakpoints in the NSD curves represent the start and end dates for migration and were used to define migration sequences for spring and fall migration. Migration routes were mapped by joining successive GPS locations within each given migration sequence.
+
+Corridors and stopovers: We applied a multi-step process to calculate population-level corridors and to identify stopovers, which generally followed the approach outlined by Sawyer et al. (2009). First, we used Brownian bridge movement models (BBMM) (Horne and others, 2007) to estimate an occurrence distribution (in other words, the probability of where the animal could have traveled during its migration, hereafter, utilization distribution [UD]) for each individual spring and fall migration sequence using a 50-meter (164-foot) resolution. The UDs were then averaged across years for each individual to produce a single, individual-level migration UD. We rescaled this averaged UD to sum to one. We then defined a migration footprint for each individual as the 99% isopleth of this UD. We stacked up all the individual footprints for a given population, and defined different levels of corridor use based on the number of individuals using a given pixel. We defined low-use corridors as areas traversed by ≥1 individual during migration, medium-use corridors were used by ≥10% of individuals within the population, and high-use corridors were used by ≥20% individuals within the population. We then converted these corridors from a grid-based format to a polygon format, while removing isolated use polygons of less than 20,000 m2 (i.e., less than approximately 5 acres). Finally, for the stopover calculation, instead of calculating footprints from each individual-level UD, we averaged all the individual-level UDs to produce a single population-level UD, rescaled to sum to one. We defined stopovers as the top 10% of the area of use from the population-averaged UD values. As with the corridors, we then converted stopovers from a grid-based format to a polygon format, and then removed isolated polygons of less than five acres.
+
+Winter ranges: We applied a three-step process to calculate population-level winter ranges, which generally followed the approach outlined by Sawyer et al. (2009). First, we isolated winter sequences, defined as movements between fall and spring migrations. For each year, we calculated a standard date for start and end of winter and applied one of two options to calculate winter range dates based on preference of individual States: (1) for each year, we calculated the start of winter as the 95% quantile of the end dates of all fall migrations, and the end of winter as the 5% quantile of the start dates of all spring migrations, or (2) we defined a fixed date range based on local expert knowledge for a given herd (e.g., Dec.15 - Mar. 15). We discarded winter sequences that spanned less than 30 days. Following the methods for migration corridors, we calculated a population-level UD of winter use and identified the core winter range using the 50% isopleth.
+
+Citations
+-Bunnefeld, N., Borger, L., van Moorter, B., Rolandsen, C.M., Dettki, H., Solberg, E.J., and Ericsson, G., 2011, A model‐driven approach to quantify migration patterns—Individual, regional and yearly differences: Journal of Animal Ecology, v. 80, no. 2, p. 466–476. [Also available at https://doi.org/10.1111/ j.1365-2656.2010.01776.x.]
+-Bastille-Rousseau, G., Potts, J.R., Yackulic, C.B., Frair, J.L., Ellington, E.H., and Blake, S., 2016, Flexible characterization of animal movement pattern using net squared displacement and a latent state model: Movement Ecology, v. 4, no. 15, 12 p. [Also available at https://doi.org/10.1186/s40462-016-0080-y.] 
+-Merkle, J.A., Gage, J., and Kauffman, M.J., 2017, Migration mapper: Laramie, Wyo., University of Wyoming, Department of Zoology and Physiology, Migration Initiative, accessed June 1, 2020, at https://migrationinitiative.org/content/migration-mapper.
+-Sawyer, H., Kauffman, M.J., Nielson, R.M., and Horne, J.S., 2009, Identifying and prioritizing ungulate migration routes for landscape-level conservation: Ecological Applications, v. 19, no. 8, p. 2016–2025. [Also available at https://doi.org/10.1890/08-2034.1.]</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>58</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ELK_AZ_NorthI40_Corridors_Ver1_2021.shp Attribute Table</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Calculated ID</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>A unique identifier for the record.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GRIDCODE</attrlabl>
+        <attrdef>We delineated low, medium, and high level  corridors from population level utilization distributions of animal movements.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1.0</edomv>
+            <edomvd>This value represents the "low use" corridor or the 99% level population footprint of the combined animal utilization distributions.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2.0</edomv>
+            <edomvd>This value represents the "medium use" corridor or the combined animal utilization distributions for 10% or more of the population.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>20.0</edomv>
+            <edomvd>This value represents the "high use" corridor or the combined animal utilization distributions for 20% or more of the population.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>30.0</edomv>
+            <edomvd>This value represents the "high use" corridor or the combined animal utilization distributions for 30% or more of the population.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>40</edomv>
+            <edomvd>This value represents the "high use" corridor or the combined animal utilization distributions for 40% or more of the population.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9TKA3L8</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20220407</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Lucas Olson</cntper>
+          <cntorg>Mule Deer Foundation/Arizona Game and Fish Department</cntorg>
+        </cntperp>
+        <cntpos>Cooperative Mule Deer Biologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>5000 W Carefree Hwy</address>
+          <city>Phoenix</city>
+          <state>AZ</state>
+          <postal>85086</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>7152187056</cntvoice>
+        <cntemail>lolson@azgfd.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
