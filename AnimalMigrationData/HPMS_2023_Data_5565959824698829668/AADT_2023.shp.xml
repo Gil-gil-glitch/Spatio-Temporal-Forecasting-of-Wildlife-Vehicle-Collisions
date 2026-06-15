@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20260427</CreaDate>
+		<ModDate/>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+		<CreaTime>19584300</CreaTime><SyncOnce>TRUE</SyncOnce></Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<rpIndName>MPDGIS@azdot.gov</rpIndName>
+		<rpOrgName>Arizona Department of Transportation</rpOrgName>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+		<rpCntInfo>
+			<cntAddress addressType="physical">
+				<city>Phoenix</city>
+				<adminArea>AZ</adminArea>
+				<postCode>85007</postCode>
+			</cntAddress>
+		</rpCntInfo>
+	</mdContact>
+	<mdDateSt/>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>AADT_2023</resTitle>
+			<citRespParty>
+				<rpOrgName>Arizona Department of Transportation</rpOrgName>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress addressType="physical">
+						<city>Phoenix</city>
+						<adminArea>AZ</adminArea>
+						<postCode>85007</postCode>
+					</cntAddress>
+				</rpCntInfo>
+			</citRespParty>
+		</idCitation>
+		<idAbs>&lt;p&gt;The Annual Average Daily Traffic (AADT) for sections of roads for all vehicle types reported in the 2023 Highway Performance Monitoring System (HPMS) federal report.
+
+Annual Average Daily Traffic (AADT) is used to represent all vehicle traffic on a typical day of the year and is important for planning purposes, such as defining the federal functional classification of a roadway. The values are calculated using data collected from traffic counter devices, such as Automatic Traffic Recorders (ATR), Weigh In Motion (WIM) devices, and short term counters using tubes. All available traffic data collected throughout the year are then summed and divided by 365 to calculate the annual average daily traffic.
+
+&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Reported Extent:&lt;/b&gt; State Highway System (i.e. all ADOT-owned roads), National Highway System (NHS), and all federal aid-eligible roads.  Federal aid-eligible roads include urban roads classified as minor collectors or above (functional system 1-6) and rural roads classified as major collectors or above (function system 1-5).  Roads where ATRs are available, counts are updated annually.  For roads where short term counters must be used, traffic counts are collected every three years for all National Highway System (NHS) roads as well as interstates (functional system 1), principal arterials (functional systems 2-3), and sample panel sections.  All other federal aid-eligible roads, including minor arterials and collectors, are collected every six years.
+
+For undivided highways, which do not have a physical barrier between the two directions of traffic, values are reported as the sum total for both directions of travel.  On divided highways, AADT is reported separately on the cardinal and non-cardinal directions of the roadway.  Note, the cardinal direction refers to the direction of increasing mileposts.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Key Terms:&lt;/b&gt;&lt;br /&gt;ADOT, MPD, 2023, HPMS, 2023 HPMS, Traffic Volume, Traffic Count&lt;/p&gt;</idAbs>
+		<idPurp>The AADT for sections of roads for all vehicle types reported in the 2023 HPMS federal report.</idPurp>
+		<idCredit>MPD GIS</idCredit>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<tpCat>
+			<TopicCatCd value="018"/>
+		</tpCat>
+		<searchKeys>
+			<keyword>ADOT, MPD, HPMS, 2023 HPMS, Road, LRS,ADOT, MPD, 2023, HPMS, 2023 HPMS, Traffic Volume, Traffic Count</keyword>
+		</searchKeys>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<westBL>0.00</westBL>
+					<eastBL>0.00</eastBL>
+					<southBL>0.00</southBL>
+					<northBL>0.00</northBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="008"/>
+			</maintFreq>
+		</resMaint>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit><p><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:12pt;">The sources of data used in the production of this report have been put through multiple QA/QC processes and are believed to be reliable. As such, no warranty, expressed or implied, is made regarding accuracy, adequacy, completeness, legality, reliability, or usefulness of any information. This disclaimer applies to both isolated and aggregate uses of the information. The Arizona Department of Transportation provides this information on an "AS IS" basis. All warranties of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, freedom from contamination by computer viruses, and non-infringement of proprietary rights are disclaimed. Changes will be periodically added to the information as updates and corrections happen; these changes may or may not be incorporated in any new version of the publication. If the user has obtained information from a source other than this Report, the user must be aware that electronic data can be altered subsequent to original distribution. Data can also quickly become out of date. It is recommended that the user pay careful attention to the contents of any metadata associated with a file and that the originator (MPD GIS) of the data or information be contacted with any questions regarding appropriate use. If the user finds any errors or omissions, we encourage the user to report them to the Arizona Department of Transportation GIS team at MPDGIS@azdot.gov. To the maximum extent permitted by law, the liability of ADOT, its employees, officers, officials, and agents shall not include liability for lost profits, indirect, incidental, special, punitive, or consequential damages, or claims from third parties to the public, or any loss of business, revenue or data, whether based upon a claim or action of tort, contract, warranty, negligence, strict liability, breach of statutory duty, or any other legal theory or cause of action, even if advised of the possibility of such damages. In addition to the disclaimers above, to the fullest extent permitted by law, any user of this Report agrees to release, and hold harmless the State of Arizona, its employees, officers, officials, and agents from and against any and all claims, actions, liabilities, damages, losses, or expenses (including court costs, attorneys’ fees, and costs of claim processing, investigation, and litigation) arising out of the performance of this agreement.</span></p></useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+</metadata>
