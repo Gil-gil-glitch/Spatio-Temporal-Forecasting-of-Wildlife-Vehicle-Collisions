@@ -6,6 +6,10 @@
 #
 #
 
+import torch
+import torch.nn as nn
+
+
 class Temporal1DCNN(nn.Module):
     def __init__(self, lookback, num_segments):
         super(Temporal1DCNN, self).__init__()
