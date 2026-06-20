@@ -1,7 +1,11 @@
 #
 ## BidirectionalLSTM.py
 #
-# This model implements a bidirectional LSTM architecture to capture both forward and backward temporal dependencies
+# This model implements a bidirectional LSTM architecture to capture both forward and backward temporal dependencies. 
+# It processes sequences of segment-level crash tensors in both directions, allowing the model to learn from past and 
+# future contexts simultaneously. The final output is obtained from the last hidden state of the top LSTM layer, which 
+# is then passed through a fully connected layer to produce the risk estimates for each segment at the forecast horizon.
+#
 #
 
 import torch
