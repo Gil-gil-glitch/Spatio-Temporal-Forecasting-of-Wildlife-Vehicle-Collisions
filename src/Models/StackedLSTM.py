@@ -1,7 +1,12 @@
 #
-## BidirectionalLSTM.py
+## StackedLSTM.py
 #
-# This model implements a bidirectional LSTM architecture to capture both forward and backward temporal dependencies
+# This model implements a multi-layer deep recurrent architecture designed to learn hierarchical 
+# temporal abstractions within the sequence arrays. It consists of multiple LSTM layers stacked 
+#  on top of each other, allowing the model to capture more complex temporal patterns in the data. 
+# The final output is obtained from the last hidden state of the top LSTM layer, which is then 
+# passed through a fully connected layer to produce the risk estimates for each segment at the 
+# forecast horizon.
 #
 
 import torch
