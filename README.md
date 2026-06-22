@@ -69,7 +69,3 @@ Therefore, while the univariate 1D-CNN and Stacked LSTM operate as superior **st
 * **Missing Data Imputation:** In standard continuous time-series forecasting, missing entries are frequently handled via forward-filling or linear interpolation. However, because our regularized master matrix represents discrete safety-critical point counts across space-time grids, standard interpolation cannot be applied blindly. True missing entries or unrecorded grid coordinate combinations indicate a day with absolute zero incidents. Applying a traditional rolling smoother or interpolation would artificially leak and inflate collision frequencies. Therefore, the pipeline drops rows with completely corrupt spatial identifiers (`MPNum`) and sets all remaining space-time grid vacancies explicitly to `0` via `.fillna(0)`, preserving the mathematical integrity of the 95.69% zero-inflated target variable.
 
 ---
-
-    ├── __init__.py
-    ├── data_pipeline.py      # Geographic intersection and tensor generation engine
-    └── model.py              # PyTorch DualBranchFusionLSTM neural network class
